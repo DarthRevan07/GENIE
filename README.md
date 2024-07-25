@@ -2,6 +2,10 @@
 
 ## Non-local GNNs for Jet Classification : 
 
+Dataset can be found at : 
+`https://zenodo.org/records/2603256`
+
+
 ![vector](https://github.com/user-attachments/assets/58701d95-bf76-437f-a6c0-fe6b25c0f1d9)
 
 
